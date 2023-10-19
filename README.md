@@ -14,5 +14,5 @@ This project aims to predict gold prices based on various financial and economic
  Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/gold-price-prediction.git
+   git clone https://github.com/Anshul21107/gold-price-prediction.git
    cd gold-price-prediction
